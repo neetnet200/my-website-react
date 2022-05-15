@@ -1,9 +1,5 @@
 # my-website-react
-A deployable website build from scratch with React JS 
+Working on a deployable website build from scratch with React JS and CSS
 
 
-🐱‍👤 Responsive Navigation bar built using styled components
-
-🐱‍👤 Basic animation made with Framer motion
-
-🐱‍👤 Installed and worked with React Router v6 to navigate between components
+🐱‍👤 Installed and working with React Router v6 to navigate between components
