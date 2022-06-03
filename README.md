@@ -9,3 +9,5 @@ Working on a deployable website build from scratch with React JS and CSS
 🐱‍👤 Added validation to from including Regex to the email input
 
 🐱‍👤 Fixed a CSS centering bug!
+
+🐱‍👤 Learning Node JS and Express to build a backend, and get formdata
